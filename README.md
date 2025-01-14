@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daretoface
-- 👀 I’m interested in web development..
+- 👀 I’m interested artificial intelligence..
 - 🌱 I’m currently learning javascript..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
